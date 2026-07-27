@@ -1,3 +1,3 @@
 from . import light_spellbook
 
-all = ["light_spellbook"]
+__all__ = ["light_spellbook"]
